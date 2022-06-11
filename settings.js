@@ -15,7 +15,7 @@
   global.autoReadGc = true // Ubah Ke false Jika Chat Di Grup Tidak Ingin Di Baca Oleh Bot
   global.autoReadAll = false // Ubah Ke true Jika Ingin Seluruh Chat Di Baca Oleh Bot
   global.anticall = false // Ubah Ke false Jika Tidak Ingin Bot Blockir Yang Telepon
-  global.available = false // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
+  global.available = true // Ubah Ke false Jika Bot Mu Tidak Ingin Terlihat Online
   global.autoTyping = false // Ubah Ke true Jika Ingin Saat Ada Yang Chat Bot Auto Mengetik
   global.autoRecord = true // Ubah Ke false Jika Tidak Ingin Saat Ada Yang Chat Bot Auto Merekam
   global.multiplier = 69 // Semakin Besar Angkanya Semakin Sulit Untuk Naik Level
@@ -23,7 +23,7 @@
   global.prefa = ['','.','/','#']
 
   // Other
-  global.ownername = 'W I L Y' // Ganti Jadi Namamu
+  global.ownername = 'HENTONGERS' // Ganti Jadi Namamu
   global.owner = ['6289688206739'] // Kalo Mau Lebih Tambahin Aja
   global.ownernomer = '6289688206739' // Owner Utama Istilahnya
   global.botname = 'Hentongers-Botz 🔥' // Ganti Jadi Nama Botmu
