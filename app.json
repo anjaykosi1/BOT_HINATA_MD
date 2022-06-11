@@ -1,7 +1,7 @@
 {
   "name": "repo name",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/anjaykosi1/NOMER_AMERIKA_BOT_CHIKA.git",
+  "repository": "https://github.com/wilykun1994/BOT_HINATA_MD.git",
   "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
